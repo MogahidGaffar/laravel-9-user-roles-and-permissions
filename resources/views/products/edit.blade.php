@@ -53,5 +53,4 @@
     </form>
 
 
-<p class="text-center text-primary"><small>Tutorial by @MogahidGaffar</small></p>
 @endsection
